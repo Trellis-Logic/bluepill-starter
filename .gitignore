@@ -7,3 +7,5 @@ examples/*
 .vscode/*
 STM32Make.make
 build/*
+.stmignore
+.mxproject
