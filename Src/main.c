@@ -16,6 +16,7 @@
   *
   ******************************************************************************
   */
+ #include "app.h"
 /* USER CODE END Header */
 
 /* Includes ------------------------------------------------------------------*/
@@ -88,6 +89,7 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
 
+  app_main();
   /* USER CODE END 2 */
 
   /* Infinite loop */
